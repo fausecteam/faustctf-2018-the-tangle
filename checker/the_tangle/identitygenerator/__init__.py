@@ -6,6 +6,13 @@ import random
 import string
 import sys
 
+
+__title__ = 'names'
+__version__ = '0.3.0.post1'
+__author__ = 'Trey Hunner'
+__license__ = 'MIT'
+
+
 full_path = lambda filename: abspath(join(dirname(__file__), filename))
 
 
